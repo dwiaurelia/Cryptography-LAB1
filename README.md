@@ -17,3 +17,17 @@
 ![image](https://github.com/user-attachments/assets/999c4f04-3cc7-4a53-bf0b-dc8f5a19c8e3)
 
 ![image](https://github.com/user-attachments/assets/cbb836c0-2ba3-48b9-91ba-dec475b49351)
+
+__Cryptography-LAB2__
+
+![image](https://github.com/user-attachments/assets/71b7cb71-5fc3-4d70-8727-02cd1e03731e)
+
+![image](https://github.com/user-attachments/assets/dae5615b-7e90-45a2-81f5-f1e724f76e46)
+
+![image](https://github.com/user-attachments/assets/6c42b2f9-4288-4a50-a6b3-68a6a0fb7d9a)
+
+![image](https://github.com/user-attachments/assets/2cebf51c-6f99-45d7-a44d-a3c62fac14e6)
+
+![image](https://github.com/user-attachments/assets/9d42f2f1-9986-4056-b863-593e2917900c)
+
+![image](https://github.com/user-attachments/assets/459e6e7f-970b-4863-bd5a-531bf6da0cc9)
